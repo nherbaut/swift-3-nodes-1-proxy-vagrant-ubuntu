@@ -43,3 +43,8 @@ and finally, run your swift commands as an admin
 ~~~
 
 you must have the python swift client for it to work.
+
+
+# References
+
+[1] http://thornelabs.net/2014/07/14/install-a-stand-alone-multi-node-openstack-swift-cluster-with-virtualbox-or-vmware-fusion-and-vagrant.html
